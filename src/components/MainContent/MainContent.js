@@ -8,7 +8,7 @@ import Contact from "../Contact/Contact";
 
 const MainContent = () => {
   const [activePage, setActivePage] = useState("about");
-  const navItems = ["about", "Resume", "Portfolio", "Contact"];
+  const navItems = ["About", "Resume", "Portfolio", "Contact"];
 
   const handleNavClick = (page) => {
     setActivePage(page);

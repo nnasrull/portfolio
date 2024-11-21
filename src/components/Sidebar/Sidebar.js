@@ -22,7 +22,7 @@ const Sidebar = () => {
             Nasrul Huda
           </h1>
 
-          <p className="title">B. Tech CSE Graduate</p>
+          <p className="title">M.Sc Data Science and AI</p>
         </div>
 
         <button
@@ -48,9 +48,11 @@ const Sidebar = () => {
             <div className="contact-info">
               <p className="contact-title">Email</p>
 
-              <a href="mailto:richard@example.com" className="contact-link">
+              <a href="mailto:nasrul2001@gmail.com" className="contact-link">
                 nasrul2001@gmail.com
               </a>
+
+    
             </div>
           </li>
 
@@ -63,7 +65,7 @@ const Sidebar = () => {
               <p className="contact-title">Phone</p>
 
               <a href="tel:+12133522795" className="contact-link">
-                +91 8447671899
+                +49 01635867587
               </a>
             </div>
           </li>
@@ -74,7 +76,7 @@ const Sidebar = () => {
             </div>
 
             <div className="contact-info">
-              <p className="contact-title">Birthday</p>
+              <p className="contact-title">Date of Birth</p>
 
               <time dateTime="1982-06-23">November 15, 2001</time>
             </div>
@@ -88,7 +90,7 @@ const Sidebar = () => {
             <div className="contact-info">
               <p className="contact-title">Location</p>
 
-              <address>New Delhi, Delhi, India</address>
+              <address>Hamburg, Germany</address>
             </div>
           </li>
         </ul>
